@@ -21,4 +21,5 @@ for csvFile, tableName, outputParquetFilesPath in zip(csvFilesArray, tableNamesA
         """
     )
     
-    print ("Books Stage 1 Done !! ✨")
+
+print ("Books Stage 1 Done !! ✨")
